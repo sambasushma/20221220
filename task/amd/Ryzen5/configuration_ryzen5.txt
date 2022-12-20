@@ -1,0 +1,2 @@
+“The AMD Ryzen 5 5600H is a processor for big (gaming) laptops based on
+the Cezanne generation.”
